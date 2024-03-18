@@ -18,8 +18,8 @@ import (
 // @version 1.0.0
 // @description This is a sample server for Hacktiv8 Go Assignment 2 API Documentation.
 // @termsOfService https:/swagger.io/terms/
-// @contact.name Fahrul Zaman
-// @contact.email fhrlzmn26@gmail.com
+// @contact.name rojacky
+// @contact.email rojackycrb@gmail.com
 // @license.name MIT
 // @license.url http://mit-license
 // @host localhost:8080

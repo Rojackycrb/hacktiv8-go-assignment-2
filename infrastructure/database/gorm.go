@@ -8,8 +8,8 @@ import (
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"
 
-	"rojackycrb/assignment-2/config"
-	"rojackycrb/assignment-2/domain/entity"
+	"rojackycrb/hacktiv8-go/assignment-2/config"
+	"rojackycrb/hacktiv8-go/assignment-2/domain/entity"
 )
 
 var (
